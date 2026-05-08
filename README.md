@@ -3,5 +3,5 @@
 
 原项目地址：https://github.com/forrestchang/andrej-karpathy-skills
 
-(使用skills)[COPILOT_INSTRUCTIONS_GUIDE.md]
-(skills文件)[copilot-instructions.md]
+[使用skills](COPILOT_INSTRUCTIONS_GUIDE.md)
+[skills文件](copilot-instructions.md)
